@@ -16,8 +16,7 @@
 title: FiveM Scripts
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  A dedicated FiveM community working to make public scripts for public use
-  FiveM Scripts is in no way affiliated with FiveM/FiveM.net or the Citizen.FX Collective, neither is it affiliated with Rockstar, Take-Two, or Valve
+  A dedicated FiveM community working to make public scripts for public use | FiveM Scripts is in no way affiliated with FiveM/FiveM.net or the Citizen.FX Collective, neither is it affiliated with Rockstar, Take-Two, or Valve
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  FiveM-Scripts
